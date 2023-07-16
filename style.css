@@ -1,0 +1,10 @@
+body {
+    background-color: blue; 
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid purple;
+    padding-left: 10px;
+    margin: 10px 0;
+}
